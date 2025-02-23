@@ -11,7 +11,6 @@ This Employee Management System allows users to add, view, and delete employees 
 
 ## Files
 - `index.html`: Contains the HTML structure for the employee form and table.
-- `style.css`: (Optional) If you have any styling for your project.
 - `script.js`: Handles the functionality for adding, deleting, and displaying employees, as well as saving data in `localStorage`.
 
 ## How It Works
